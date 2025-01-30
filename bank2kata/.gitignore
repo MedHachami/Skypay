@@ -1,0 +1,28 @@
+# Maven target folder
+/target/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Eclipse project files
+.project
+.classpath
+
+# NetBeans project files
+nbproject/
+
+# VSCode settings folder
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven wrapper jar
+.mvn/wrapper/maven-wrapper.jar
+
+# Java specific
+*.class
+*.log
+*.swp
